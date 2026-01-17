@@ -21,14 +21,23 @@ The system manages a library's book catalog, member registrations, borrowing rul
 
 ## Technologies Used
 - C++ (OOP, STL, file I/O)  
-- HTML, CSS, JSON  
-- Git & GitHub  
+- HTML, CSS,JavaScript JSON , Node.js 
+  
+- ## Project Structure
+- `src/` – C++ source files
+- `include/` – C++ header files
+- `frontend/` – HTML, CSS, and JavaScript frontend
+- `server.js` – Node.js server used for frontend interaction
+
+## Contribution Note
+This project was developed as a group assignment.
+My primary contribution was the C++ backend logic and frontend development part.
+
 
 ## What I Learned
 - Object-Oriented Programming & memory management  
 - Data structures: std::map, std::multimap, std::vector  
 - File parsing and serialization  
-- Algorithm design: search logic, date calculations  
-- Basic frontend-backend integration  
+- Algorithm design: search logic, date calculations   
 - Working collaboratively in a group project
 
