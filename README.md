@@ -36,7 +36,7 @@ My primary contribution was the C++ backend logic and frontend development part.
 
 ## What I Learned
 - Object-Oriented Programming & memory management  
-- Data structures: std::map, std::multimap, std::vector  
+- Data structures
 - File parsing and serialization  
 - Algorithm design: search logic, date calculations   
 - Working collaboratively in a group project
